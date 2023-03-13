@@ -10,9 +10,8 @@
         trabalho. Com minha experiência em front-end, sou capaz de criar interfaces de usuário atraentes e funcionais,
         além de ter um conhecimento sólido em JavaScript e suas bibliotecas.</p>
     <h4>Desenvolvimento Back-End</h4>
-    <p>Tenho experiência em desenvolvimento back-end, utilizando tecnologias como Node.js e Express, o que sugere que
-        possuo habilidades em criação de APIs e manipulação de dados. Também possuo projetos que utilizam outras
-        tecnologias back-end, como PHP e Laravel.</p>
+    <p>Tenho experiência em desenvolvimento back-end, utilizando tecnologias como PHP e Laravel, também
+        possuo habilidades em criação de APIs e manipulação de dados.</p>
     <h4>Banco de Dados</h4>
     <p>Possuo experiência em trabalhar com bancos de dados como MySQL e SQL Server, o que indica que sou capaz de
         armazenar e gerenciar dados de forma eficaz. Meus projetos incluem exemplos de uso de bancos de dados, desde
