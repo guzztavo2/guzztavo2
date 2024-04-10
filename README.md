@@ -2,10 +2,16 @@
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
    <h2>Olá, bem-vindo ao meu perfil do Github! 👨‍💻</h2>
-    <p>Sou Gustavo Teles Bonifácio, um desenvolvedor web apaixonado por tecnologia e com ampla experiência em diversas
-        tecnologias e ferramentas. Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Ciências e
-        Tecnologia de São Paulo, campus Barretos, tenho 24 anos e estou sempre em busca de novas oportunidades para me
-        desenvolver no mercado de trabalho.</p>
+   <div>
+      <img align="right" width="40%" height="auto" src="https://github.com/guzztavo2/guzztavo2/blob/main/octocat.png" />
+
+ <p width="10%" height="auto" style="display:block">Sou Gustavo Teles Bonifácio, um desenvolvedor web apaixonado por tecnologia e com ampla experiência em diversas
+  tecnologias e ferramentas. Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Ciências e
+  Tecnologia de São Paulo, campus Barretos, tenho 24 anos e estou sempre em busca de novas oportunidades para me
+  desenvolver no mercado de trabalho.
+ </p>        
+
+</div>
     <h3>Habilidades </h3>
     <h4>Desenvolvimento Front-End</h4>
     <p>Possuo forte conhecimento em tecnologias front-end, como HTML, CSS e JavaScript, além de frameworks como Vue e
