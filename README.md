@@ -58,7 +58,7 @@
    <p>
       <a href = "mailto:gustavo_bonifacio2020@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Email-296bce?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/guzztavo2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-       <a href="https://www.linkedin.com/in/guzztavo2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Portf%C3%B3lio-%230077B5?style=for-the-badge" target="_blank"></a>
+       <a href="https://guzztavo2.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Portf%C3%B3lio-%230077B5?style=for-the-badge" target="_blank"></a>
    </p>
 
 <div align="center" width="100%">
