@@ -3,7 +3,7 @@
           
    <h2>Olá, bem-vindo ao meu perfil do Github! 👨‍💻</h2>
    <div>
-      <img align="right" width="40%" height="auto" src="https://github.com/guzztavo2/guzztavo2/blob/main/octocat.png" />
+      <img loading="lazy" align="right" width="40%" height="auto" src="https://github.com/guzztavo2/guzztavo2/blob/main/octocat.png" />
 
  <p width="10%" height="auto" style="display:block">Sou Gustavo Teles Bonifácio, um desenvolvedor web apaixonado por tecnologia e com ampla experiência em diversas
   tecnologias e ferramentas. Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Ciências e
@@ -19,23 +19,23 @@
         trabalho. Com minha experiência em front-end, sou capaz de criar interfaces de usuário atraentes e funcionais,
         além de ter um conhecimento sólido em JavaScript e suas bibliotecas.</p>
    <p align='center'>
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
    </p>
     <h4>Desenvolvimento Back-End</h4>
     <p>Tenho experiência em desenvolvimento back-end, utilizando tecnologias como PHP e Laravel, também
         possuo habilidades em criação de APIs e manipulação de dados. Além já ter trabalhado profissionalmente com o Python e Selenium e construído diversos robôs.
     </p>
   <p align='center'>
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-         <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+         <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
    </p>
     <h4>Banco de Dados</h4>
     <p>Possuo experiência em trabalhar com bancos de dados como MySQL e SQL Server, o que indica que sou capaz de
@@ -43,8 +43,8 @@
         projetos simples até projetos mais complexos que envolvem a manipulação de grandes volumes de dados.
     </p>
    <p align='center'>
-      <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-      <img width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />   
+      <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+      <img loading="lazy" width="7%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />   
    </p>
         
  <h4>Versionamento de Código</h4>
