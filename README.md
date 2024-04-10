@@ -61,7 +61,7 @@
        <a href="https://www.linkedin.com/in/guzztavo2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Portf%C3%B3lio-%230077B5?style=for-the-badge" target="_blank"></a>
    </p>
 
-<div width="100%">
+<div align="center" width="100%">
    <a href="https://github.com/guzztavo2">
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzztavo2&layout=compact&langs_count=7&theme=dracula"/>
+   <img width="40%" loading="lazy" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzztavo2&layout=compact&langs_count=7&theme=dracula"/>
 </div>
